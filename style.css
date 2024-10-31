@@ -295,6 +295,17 @@ nav {
   text-align: center;
 }
 
+/* banner section */
+.banner__container h2 {
+  max-width: 825px;
+  margin-inline: auto;
+  font-size: 3rem;
+  font-weight: 400;
+  color: var(--white);
+  line-height: 3.75rem;
+  text-align: center;
+}
+
 @media (width > 540px) {
   /* header section */
   .header__container h1 {
